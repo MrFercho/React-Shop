@@ -1,6 +1,6 @@
 import React from 'react';
-import ShoppingCartItem from '../components/ShoppingCartItem';
-import '../styles/Checkout.scss'
+import ShoppingCartItem from '@components/ShoppingCartItem.jsx';
+import '@styles/Checkout.scss'
 
 const Checkout = () => {
   return (

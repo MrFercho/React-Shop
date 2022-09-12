@@ -1,6 +1,6 @@
 import React from 'react';
-import Order from '../components/Order';
-import '../styles/OrderHistory.scss';
+import Order from '@components/Order.jsx';
+import '@styles/OrderHistory.scss';
 
 const OrderHistory = () => {
   return (
