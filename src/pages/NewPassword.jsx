@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react';
 import '@styles/NewPassword.scss';
-import logo from '@assets/logos/favicon_yard_sale.svg';
+import logo from '@logos/favicon_yard_sale.svg';
 
 const NewPassword = () => {
   return (

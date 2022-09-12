@@ -15,7 +15,8 @@ const Checkout = () => {
             </p>
             <p>$560.00</p>
           </div>
-          <ShoppingCartItem />//As I think here must be the shopping cart item, let's c why shows me Order Item
+          <ShoppingCartItem />
+          {/* As I think here must be the shopping cart item, let's c why shows me Order Item */}
         </div>
       </div>
     </div>
