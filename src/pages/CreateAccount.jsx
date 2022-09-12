@@ -1,10 +1,10 @@
 import React from 'react';
-import '../styles/NewAccount.scss';
+import '../styles/CreateAccount.scss';
 
-const NewAccount = () => {
+const CreateAccount = () => {
   return (
-    <div className="login">
-      <div className="form-container">
+    <div className="CreateAccount">
+      <div className="CreateAccount-container">
         <h1 className="title">My account</h1>
         <form action="/" className="form">
           <div>
@@ -22,4 +22,4 @@ const NewAccount = () => {
   );
 }
 
-export default NewAccount;
+export default CreateAccount;

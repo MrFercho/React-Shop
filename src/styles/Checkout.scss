@@ -1,6 +1,6 @@
 @use 'vars';
 
-.my-order {
+.Checkout {
   width: 100%;
   height: 100vh;
   display: grid;
@@ -10,12 +10,12 @@
   font-size: var(--lg);
   margin-bottom: 40px;
 }
-.my-order-container {
+.Checkout-container {
   display: grid;
   grid-template-rows: auto 1fr auto;
   width: 300px;
 }
-.my-order-content {
+.Checkout-content {
   display: flex;
   flex-direction: column;
 }
