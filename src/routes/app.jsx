@@ -11,8 +11,8 @@ import MyAccount from "@pages/MyAccount.jsx";
 import CreateAccount from "@pages/CreateAccount.jsx";
 import Checkout from "@pages/Checkout.jsx";
 import OrderHistory from "@pages/OrderHistory.jsx";
-import AppContext from "@context/AppContext";
-import useInitialState from "@hooks/useInitialState";
+import AppContext from "@context/AppContext.js";
+import useInitialState from "@hooks/useInitialState.js";
 import '@styles/global.css';
 
 const App = () => {
